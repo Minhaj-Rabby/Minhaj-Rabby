@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Minhajul Islam Tapadar</h1>
-<h3 align="center">Hello! I recently graduated in Computer Science and Engineering from Mawlana Bhashani Science and Technology University. I'm passionate about web development and have been focusing on the MERN stack: MongoDB, Express.js, React.js, and Node.js. I'm now seeking job opportunities or paid internships to apply my skills, gain practical experience, and contribute to meaningful projects. Excited about the possibilities in my web development career!</h3>
+<h3 align="left">Hello! I recently graduated in Computer Science and Engineering from Mawlana Bhashani Science and Technology University. I'm passionate about web development and have been focusing on the MERN stack: MongoDB, Express.js, React.js, and Node.js. I'm now seeking job opportunities or paid internships to apply my skills, gain practical experience, and contribute to meaningful projects. Excited about the possibilities in my web development career!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhaj-rabby&label=Profile%20views&color=0e75b6&style=flat" alt="minhaj-rabby" /> </p>
 
