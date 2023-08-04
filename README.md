@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **MERN, JAVA Spring Boot**
 - 💬 Ask me about **JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, React.js, Node.js, Express.js, MongoDB, Firebase, Java**
 - 📫 How to reach me **minhaj12113@gmail.com**
-- 📄 Know about my experiences [Check My Resume](https://github.com/Minhaj-Rabby/Minhaj-Rabby/blob/main/Minhaj_Resume.pdf)
+- 📄 Know about my experiences [Check My Resume]([https://github.com/Minhaj-Rabby/Minhaj-Rabby/blob/main/Minhaj_Resume.pdf](https://drive.google.com/file/d/1i1H6ZINFJBhGMp3UjeDsQYEJmcc5PeK8/view?usp=sharing))
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/minhaj-rabbi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minhajul-rabbi-53a2b4190" height="30" width="40" /></a>
