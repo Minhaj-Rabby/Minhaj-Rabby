@@ -1,3 +1,4 @@
+<div><img src="https://i.ibb.co/5YgFBWx/Minhajul-Islam-Tapadar.png" width="100%"></div>
 <h1 align="center">Hi there 👋, I'm Minhajul Islam Tapadar</h1>
 <p align="left">I recently graduated in Computer Science and Engineering from Mawlana Bhashani Science and Technology University. I'm passionate about web development and have been focusing on the MERN stack: MongoDB, Express.js, React.js, and Node.js. I'm now seeking job opportunities or paid internships to apply my skills, gain practical experience, and contribute to meaningful projects. Excited about the possibilities in my web development career!</p>
 
