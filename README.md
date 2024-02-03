@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **MERN, JAVA Spring Boot**
 - 💬 Ask me about **JavaScript, HTML5, CSS3, Bootstrap, Tailwind CSS, React.js, Node.js, Express.js, MongoDB, Firebase, Java**
 - 📫 How to reach me **minhaj12113@gmail.com**
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1lp9ZeflZusoJtABKJxGEP_12r7xk6T-_/view" target="blank">Check My Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1pA-gY_LBgVuCXpKnVQA04Ba74CpGTFyw/view" target="blank">Check My Resume</a>
 - 👨‍💻 Portfolio  <a href="https://minhajul-islam-portfolio.vercel.app/" target="blank">Check My Portfolio</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
